@@ -1,0 +1,29 @@
+{
+    "self_id": 3249474653,
+    "user_id": 2769731875,
+    "time": 1723652153,
+    "message_id": 1571640341,
+    "message_seq": 1571640341,
+    "real_id": 1571640341,
+    "message_type": "group",
+    "sender": {
+        "user_id": 2769731875,
+        "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+        "card": "",
+        "role": "owner"
+    },
+    "raw_message": "[CQ:json,data={\"app\":\"com.tencent.troopsharecard\",\"desc\":\"\",\"view\":\"contact\",\"bizsrc\":\"\",\"ver\":\"1.0.0.30\",\"prompt\":\"推荐群聊\",\"appID\":\"\",\"sourceName\":\"\",\"actionData\":\"\",\"actionData_A\":\"\",\"sourceUrl\":\"\",\"meta\":{\"contact\":{\"avatar\":\"https:\\/\\/p.qlogo.cn\\/gh\\/742811316\\/742811316\\/100\",\"contact\":\"\",\"jumpUrl\":\"http:\\/\\/qm.qq.com\\/cgi-bin\\/qm\\/qr?_wv=1027&k=4Rg5AwZNxTBFr_wbLLluOd6OVe3Wl9u8&authKey=%2FgWq4%2BPs2BmMtvNj29EV8k3DYXlC6OOVLSrdfYLFI2euS8vJ7X3Yi%2FCkeq5lUNMH&noverify=0&group_code=742811316\",\"nickname\":\"卷卷内测群win本地测试\",\"tag\":\"推荐群聊\",\"tagIcon\":\"https:\\/\\/p.qlogo.cn\\/gh\\/742811316\\/742811316\\/100\"}},\"config\":{\"ctime\":1723652152,\"token\":\"4cd26426d8d96531c6ef14c09c9ea4e6\"},\"text\":\"\",\"extraApps\":[],\"sourceAd\":\"\",\"extra\":\"\"}]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+        {
+            "data": {
+                "data": "{\"app\":\"com.tencent.troopsharecard\",\"desc\":\"\",\"view\":\"contact\",\"bizsrc\":\"\",\"ver\":\"1.0.0.30\",\"prompt\":\"推荐群聊\",\"appID\":\"\",\"sourceName\":\"\",\"actionData\":\"\",\"actionData_A\":\"\",\"sourceUrl\":\"\",\"meta\":{\"contact\":{\"avatar\":\"https:\\/\\/p.qlogo.cn\\/gh\\/742811316\\/742811316\\/100\",\"contact\":\"\",\"jumpUrl\":\"http:\\/\\/qm.qq.com\\/cgi-bin\\/qm\\/qr?_wv=1027&k=4Rg5AwZNxTBFr_wbLLluOd6OVe3Wl9u8&authKey=%2FgWq4%2BPs2BmMtvNj29EV8k3DYXlC6OOVLSrdfYLFI2euS8vJ7X3Yi%2FCkeq5lUNMH&noverify=0&group_code=742811316\",\"nickname\":\"卷 卷内测群win本地测试\",\"tag\":\"推荐群聊\",\"tagIcon\":\"https:\\/\\/p.qlogo.cn\\/gh\\/742811316\\/742811316\\/100\"}},\"config\":{\"ctime\":1723652152,\"token\":\"4cd26426d8d96531c6ef14c09c9ea4e6\"},\"text\":\"\",\"extraApps\":[],\"sourceAd\":\"\",\"extra\":\"\"}"
+            },
+            "type": "json"
+        }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 742811316
+}

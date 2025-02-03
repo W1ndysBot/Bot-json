@@ -1,0 +1,26 @@
+{
+    "status": "ok",
+    "retcode": 0,
+    "data": {
+        "app": "com.tencent.troopsharecard",
+        "config": {
+            "ctime": 1723648341,
+            "token": "24f445429aa4b6473cc0295fc11eee4c"
+        },
+        "meta": {
+            "contact": {
+                "avatar": "https://p.qlogo.cn/gh/728077087/728077087/100",
+                "contact": "在 这里，发现更多~",
+                "jumpUrl": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=2DGgjOpYEPfWIjbaFmyW4YNFRCjcSYWH&authKey=OAjERcxnCjtDiMlnQBp9AnYhDtfV6ZodgVh6ZjydzjH4v8STFjpBLYoRuPvkr7HN&noverify=0&group_code=728077087",
+                "nickname": "卷卷公测交流群",
+                "tag": "推荐群聊",
+                "tagIcon": "https://p.qlogo.cn/gh/728077087/728077087/100"
+            }
+        },
+        "prompt": "推荐群聊",
+        "ver": "1.0.0.30",
+        "view": "contact"
+    },
+    "message": "",
+    "wording": ""
+}

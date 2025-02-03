@@ -1,0 +1,243 @@
+{
+    "self_id": "BOT_ID",
+    "user_id": "USER_ID_1",
+    "time": 1731302584,
+    "message_id": 1261189094,
+    "message_seq": 1261189094,
+    "real_id": 1261189094,
+    "message_type": "group",
+    "sender": {
+        "user_id": "USER_ID_1",
+        "nickname": "用户1",
+        "card": "",
+        "role": "owner"
+    },
+    "raw_message": "[CQ:forward,id=FORWARD_ID,content=&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+        {
+            "type": "forward",
+            "data": {
+                "id": "FORWARD_ID",
+                "content": [
+                    {
+                        "self_id": "BOT_ID",
+                        "user_id": "USER_ID_2",
+                        "time": 1731300726,
+                        "message_id": 2021846867,
+                        "message_seq": 2021846867,
+                        "real_id": 2021846867,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "USER_ID_2",
+                            "nickname": "用户2",
+                            "card": ""
+                        },
+                        "raw_message": "[CQ:image,file=IMAGE_FILE_1|MsgFile|2|284840486|7435887978607605837|7435887978607605836,sub_type=0,file_id=IMAGE_FILE_1|MsgFile|2|284840486|7435887978607605837|7435887978607605836,url=IMAGE_URL_1&spec=0&rkey=CAQSKAB6JWENi5LMBzyH_b40BBV_4eUsiubeQS-MzP3atycC3XPFPRnTzA8,file_size=150639]",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "image",
+                                "data": {
+                                    "file": "IMAGE_FILE_1",
+                                    "sub_type": 0,
+                                    "file_id": "IMAGE_FILE_1",
+                                    "url": "IMAGE_URL_1",
+                                    "file_size": "150639"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message",
+                        "group_id": "GROUP_ID_1"
+                    },
+                    {
+                        "self_id": "BOT_ID",
+                        "user_id": "USER_ID_2",
+                        "time": 1731300727,
+                        "message_id": 533624369,
+                        "message_seq": 533624369,
+                        "real_id": 533624369,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "USER_ID_2",
+                            "nickname": "用户2",
+                            "card": ""
+                        },
+                        "raw_message": "[CQ:image,file=IMAGE_FILE_2|MsgFile|2|284840486|7435887978607605842|7435887978607605841,sub_type=0,file_id=IMAGE_FILE_2|MsgFile|2|284840486|7435887978607605842|7435887978607605841,url=IMAGE_URL_2&spec=0&rkey=CAQSKAB6JWENi5LMBzyH_b40BBV_4eUsiubeQS-MzP3atycC3XPFPRnTzA8,file_size=131713]",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "image",
+                                "data": {
+                                    "file": "IMAGE_FILE_2",
+                                    "sub_type": 0,
+                                    "file_id": "IMAGE_FILE_2",
+                                    "url": "IMAGE_URL_2",
+                                    "file_size": "131713"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message",
+                        "group_id": "GROUP_ID_1"
+                    },
+                    {
+                        "self_id": "BOT_ID",
+                        "user_id": "USER_ID_2",
+                        "time": 1731300728,
+                        "message_id": 1749320451,
+                        "message_seq": 1749320451,
+                        "real_id": 1749320451,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "USER_ID_2",
+                            "nickname": "用户2",
+                            "card": ""
+                        },
+                        "raw_message": "[CQ:image,file=IMAGE_FILE_3|MsgFile|2|284840486|7435887978607605847|7435887978607605846,sub_type=0,file_id=IMAGE_FILE_3|MsgFile|2|284840486|7435887978607605847|7435887978607605846,url=IMAGE_URL_3&spec=0&rkey=CAQSKAB6JWENi5LMBzyH_b40BBV_4eUsiubeQS-MzP3atycC3XPFPRnTzA8,file_size=134112]",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "image",
+                                "data": {
+                                    "file": "IMAGE_FILE_3",
+                                    "sub_type": 0,
+                                    "file_id": "IMAGE_FILE_3",
+                                    "url": "IMAGE_URL_3",
+                                    "file_size": "134112"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message",
+                        "group_id": "GROUP_ID_1"
+                    },
+                    {
+                        "self_id": "BOT_ID",
+                        "user_id": "USER_ID_2",
+                        "time": 1731300729,
+                        "message_id": 381448803,
+                        "message_seq": 381448803,
+                        "real_id": 381448803,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "USER_ID_2",
+                            "nickname": "用户2",
+                            "card": ""
+                        },
+                        "raw_message": "[CQ:image,file=IMAGE_FILE_4|MsgFile|2|284840486|7435887978607605852|7435887978607605851,sub_type=0,file_id=IMAGE_FILE_4|MsgFile|2|284840486|7435887978607605852|7435887978607605851,url=IMAGE_URL_4&spec=0&rkey=CAQSKAB6JWENi5LMBzyH_b40BBV_4eUsiubeQS-MzP3atycC3XPFPRnTzA8,file_size=187593]",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "image",
+                                "data": {
+                                    "file": "IMAGE_FILE_4",
+                                    "sub_type": 0,
+                                    "file_id": "IMAGE_FILE_4",
+                                    "url": "IMAGE_URL_4",
+                                    "file_size": "187593"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message",
+                        "group_id": "GROUP_ID_1"
+                    },
+                    {
+                        "self_id": "BOT_ID",
+                        "user_id": "USER_ID_1",
+                        "time": 1731300732,
+                        "message_id": 772289444,
+                        "message_seq": 772289444,
+                        "real_id": 772289444,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "USER_ID_1",
+                            "nickname": "用户1",
+                            "card": ""
+                        },
+                        "raw_message": "？",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "text",
+                                "data": {
+                                    "text": "？"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message",
+                        "group_id": "GROUP_ID_1"
+                    },
+                    {
+                        "self_id": "BOT_ID",
+                        "user_id": "USER_ID_2",
+                        "time": 1731300786,
+                        "message_id": 776155857,
+                        "message_seq": 776155857,
+                        "real_id": 776155857,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "USER_ID_2",
+                            "nickname": "用户2",
+                            "card": ""
+                        },
+                        "raw_message": "s13的羁绊",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "text",
+                                "data": {
+                                    "text": "s13的羁绊"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message",
+                        "group_id": "GROUP_ID_1"
+                    },
+                    {
+                        "self_id": "BOT_ID",
+                        "user_id": "USER_ID_1",
+                        "time": 1731300945,
+                        "message_id": 944433513,
+                        "message_seq": 944433513,
+                        "real_id": 944433513,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "USER_ID_1",
+                            "nickname": "用户1",
+                            "card": ""
+                        },
+                        "raw_message": "彳亍",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "text",
+                                "data": {
+                                    "text": "彳亍"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message",
+                        "group_id": "GROUP_ID_1"
+                    }
+                ]
+            }
+        }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": "GROUP_ID_2"
+}

@@ -1,0 +1,39 @@
+{
+    "self_id": 3249474653,
+    "user_id": 3578392074,
+    "time": 1724833011,
+    "message_id": 1802462180,
+    "message_seq": 1802462180,
+    "real_id": 1802462180,
+    "message_type": "group",
+    "sender": {
+        "user_id": 3578392074,
+        "nickname": "Hacked",
+        "card": "",
+        "role": "member"
+    },
+    "raw_message": "文本[CQ:image,file=F60DE83C529DEBB44B9D208601C1530E.jpg,sub_type=0,file_id=00000000-2c46-66b4-66ce-dcf3337d9260,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=CgozNTc4MzkyMDc0EhS88RUji0AmnFDNPshhqEIo7XVExBiR1A4g_woo_o-315-XiANQgL2jAQ&amp;spec=0&amp;rkey=CAMSKMa3OFokB_Tl9JsMpGAfgilR_C6sg4zln9QvW0bn7SwABAjMwsAd_xI,file_size=240145]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+        {
+            "type": "text",
+            "data": {
+                "text": "文本"
+            }
+        },
+        {
+            "type": "image",
+            "data": {
+                "file": "F60DE83C529DEBB44B9D208601C1530E.jpg",
+                "sub_type": 0,
+                "file_id": "00000000-2c46-66b4-66ce-dcf3337d9260",
+                "url": "https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=CgozNTc4MzkyMDc0EhS88RUji0AmnFDNPshhqEIo7XVExBiR1A4g_woo_o-315-XiANQgL2jAQ&spec=0&rkey=CAMSKMa3OFokB_Tl9JsMpGAfgilR_C6sg4zln9QvW0bn7SwABAjMwsAd_xI",
+                "file_size": "240145"
+            }
+        }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 742811316
+}

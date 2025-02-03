@@ -1,0 +1,203 @@
+{
+    "timestamp": 1726921230.865042000,
+    "data": [
+        {
+            "courseName": "Python程序设计",
+            "startEndWeek": "1,3,5,7,9,11,13,15,17",
+            "classPlace": "测试实验室304",
+            "teacherName": "胡晓依",
+            "classWeek": "5",
+            "classSections": "0102"
+        },
+        {
+            "courseName": "Python程序设计",
+            "startEndWeek": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+            "classPlace": "测试实验室304",
+            "teacherName": "胡晓依",
+            "classWeek": "3",
+            "classSections": "0102"
+        },
+        {
+            "courseName": "数据挖掘",
+            "startEndWeek": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+            "classPlace": "格物楼B112",
+            "teacherName": "胡春美",
+            "classWeek": "1",
+            "classSections": "0102"
+        },
+        {
+            "courseName": "算法设计与分析",
+            "startEndWeek": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+            "classPlace": "格物楼B108",
+            "teacherName": "陈维洋",
+            "classWeek": "4",
+            "classSections": "0102"
+        },
+        {
+            "courseName": "密码学引论",
+            "startEndWeek": "18",
+            "classPlace": "致知楼B202",
+            "teacherName": "马旭",
+            "classWeek": "6",
+            "classSections": "010203"
+        },
+        {
+            "courseName": "网络对抗原理",
+            "startEndWeek": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+            "classPlace": "格物楼B306",
+            "teacherName": "臧小东",
+            "classWeek": "2",
+            "classSections": "020304"
+        },
+        {
+            "courseName": "信息论与编码",
+            "startEndWeek": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+            "classPlace": "格物楼B212",
+            "teacherName": "宋秋艳",
+            "classWeek": "3",
+            "classSections": "0304"
+        },
+        {
+            "courseName": "数据挖掘",
+            "startEndWeek": "2,4,6,8,10,12,14,16,18",
+            "classPlace": "格物楼A106",
+            "teacherName": "胡春美",
+            "classWeek": "1",
+            "classSections": "0304"
+        },
+        {
+            "courseName": "算法设计与分析",
+            "startEndWeek": "2,4,6,8,10,12,14,16,18",
+            "classPlace": "软件实训实验室201",
+            "teacherName": "陈维洋",
+            "classWeek": "4",
+            "classSections": "0304"
+        },
+        {
+            "courseName": "网络对抗原理",
+            "startEndWeek": "5,6,7,8,9,10,11,12,13",
+            "classPlace": "软件基础实验室301",
+            "teacherName": "臧小东",
+            "classWeek": "2",
+            "classSections": "0506"
+        },
+        {
+            "courseName": "密码学引论",
+            "startEndWeek": "17",
+            "classPlace": "格物楼B201",
+            "teacherName": "马旭",
+            "classWeek": "3",
+            "classSections": "050607"
+        },
+        {
+            "courseName": "密码学引论",
+            "startEndWeek": "1,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+            "classPlace": "格物楼B102",
+            "teacherName": "马旭",
+            "classWeek": "4",
+            "classSections": "050607"
+        },
+        {
+            "courseName": "认知智能中的知识构建研究专题研讨",
+            "startEndWeek": "1,2,3,4,5,6,7,8,9",
+            "classPlace": "格物楼B203",
+            "teacherName": "周子力",
+            "classWeek": "2",
+            "classSections": "0708"
+        },
+        {
+            "courseName": "大学生就业与创业指导",
+            "startEndWeek": "8",
+            "classPlace": "综合教学楼501",
+            "teacherName": "曹亚楠,丁允念,高思明,胡乃永,马振华,孙金玲,韦宁,相青",
+            "classWeek": "1",
+            "classSections": "0910"
+        },
+        {
+            "courseName": "大学生就业与创业指导",
+            "startEndWeek": "9",
+            "classPlace": "综合教学楼501",
+            "teacherName": "曹亚楠,丁允念,高思明,胡乃永,马振华,孙金玲,韦宁,相青",
+            "classWeek": "1",
+            "classSections": "0910"
+        },
+        {
+            "courseName": "大学生就业与创业指导",
+            "startEndWeek": "1",
+            "classPlace": "综合教学楼501",
+            "teacherName": "曹亚楠,丁允念,高思明,胡乃永,马振华,孙金玲,韦宁,相青",
+            "classWeek": "1",
+            "classSections": "0910"
+        },
+        {
+            "courseName": "大学生就业与创业指导",
+            "startEndWeek": "5",
+            "classPlace": "综合教学楼501",
+            "teacherName": "曹亚楠,丁允念,高思明,胡乃永,马振华,孙金玲,韦宁,相青",
+            "classWeek": "1",
+            "classSections": "0910"
+        },
+        {
+            "courseName": "大学生就业与创业指导",
+            "startEndWeek": "4",
+            "classPlace": "综合教学楼501",
+            "teacherName": "曹亚楠,丁允念,高思明,胡乃永,马振华,孙金玲,韦宁,相青",
+            "classWeek": "1",
+            "classSections": "0910"
+        },
+        {
+            "courseName": "大学生就业与创业指导",
+            "startEndWeek": "3",
+            "classPlace": "综合教学楼501",
+            "teacherName": "曹亚楠,丁允念,高思明,胡乃永,马振华,孙金玲,韦宁,相青",
+            "classWeek": "1",
+            "classSections": "0910"
+        },
+        {
+            "courseName": "大学生就业与创业指导",
+            "startEndWeek": "7",
+            "classPlace": "综合教学楼501",
+            "teacherName": "曹亚楠,丁允念,高思明,胡乃永,马振华,孙金玲,韦宁,相青",
+            "classWeek": "1",
+            "classSections": "0910"
+        },
+        {
+            "courseName": "大学生就业与创业指导",
+            "startEndWeek": "6",
+            "classPlace": "综合教学楼501",
+            "teacherName": "曹亚楠,丁允念,高思明,胡乃永,马振华,孙金玲,韦宁,相青",
+            "classWeek": "1",
+            "classSections": "0910"
+        },
+        {
+            "courseName": "大学生就业与创业指导",
+            "startEndWeek": "2",
+            "classPlace": "综合教学楼501",
+            "teacherName": "曹亚楠,丁允念,高思明,胡乃永,马振华,孙金玲,韦宁,相青",
+            "classWeek": "1",
+            "classSections": "0910"
+        },
+        {
+            "courseName": "课程论文（设计）1",
+            "startEndWeek": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+            "classPlace": "格物楼B318",
+            "teacherName": "路秀华",
+            "classWeek": "2",
+            "classSections": "091011"
+        },
+        {
+            "courseName": "习近平新时代中国特色社会主义思想概论",
+            "startEndWeek": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+            "classPlace": "致知楼B201",
+            "teacherName": "马健永",
+            "classWeek": "7",
+            "classSections": "091011"
+        }
+    ],
+    "code": 0,
+    "status": 200,
+    "message": "成功",
+    "success": true,
+    "notOk": false,
+    "ok": true
+}

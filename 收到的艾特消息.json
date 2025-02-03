@@ -1,0 +1,41 @@
+{
+    "self_id": 3249474653,
+    "user_id": 2769731875,
+    "time": 1724575361,
+    "message_id": 1918765287,
+    "message_seq": 1918765287,
+    "real_id": 1918765287,
+    "message_type": "group",
+    "sender": {
+        "user_id": 2769731875,
+        "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+        "card": "𝐖𝟏𝐧𝐝𝐲𝐬",
+        "role": "owner"
+    },
+    "raw_message": "[CQ:reply,id=1249237922][CQ:at,qq=2769731875] 12",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+        {
+            "data": {
+                "id": "1249237922"
+            },
+            "type": "reply"
+        },
+        {
+            "type": "at",
+            "data": {
+                "qq": "2769731875"
+            }
+        },
+        {
+            "data": {
+                "text": " 12"
+            },
+            "type": "text"
+        }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": 742811316
+}

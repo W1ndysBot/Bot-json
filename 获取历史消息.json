@@ -1,0 +1,301 @@
+{
+    "status": "ok",
+    "retcode": 0,
+    "data": {
+        "messages": [
+            {
+                "self_id": 3249474653,
+                "user_id": 2769731875,
+                "time": 1725692758,
+                "message_id": 981359810,
+                "message_seq": 981359810,
+                "real_id": 981359810,
+                "message_type": "group",
+                "sender": {
+                    "user_id": 2769731875,
+                    "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+                    "card": "",
+                    "role": "owner"
+                },
+                "raw_message": "1",
+                "font": 14,
+                "sub_type": "normal",
+                "message": [
+                    {
+                        "type": "text",
+                        "data": {
+                            "text": "1"
+                        }
+                    }
+                ],
+                "message_format": "array",
+                "post_type": "message",
+                "group_id": 118976506
+            },
+            {
+                "self_id": 3249474653,
+                "user_id": 2769731875,
+                "time": 1725692758,
+                "message_id": 220349136,
+                "message_seq": 220349136,
+                "real_id": 220349136,
+                "message_type": "group",
+                "sender": {
+                    "user_id": 2769731875,
+                    "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+                    "card": "",
+                    "role": "owner"
+                },
+                "raw_message": "1",
+                "font": 14,
+                "sub_type": "normal",
+                "message": [
+                    {
+                        "type": "text",
+                        "data": {
+                            "text": "1"
+                        }
+                    }
+                ],
+                "message_format": "array",
+                "post_type": "message",
+                "group_id": 118976506
+            },
+            {
+                "self_id": 3249474653,
+                "user_id": 2769731875,
+                "time": 1725692758,
+                "message_id": 615013419,
+                "message_seq": 615013419,
+                "real_id": 615013419,
+                "message_type": "group",
+                "sender": {
+                    "user_id": 2769731875,
+                    "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+                    "card": "",
+                    "role": "owner"
+                },
+                "raw_message": "1",
+                "font": 14,
+                "sub_type": "normal",
+                "message": [
+                    {
+                        "type": "text",
+                        "data": {
+                            "text": "1"
+                        }
+                    }
+                ],
+                "message_format": "array",
+                "post_type": "message",
+                "group_id": 118976506
+            },
+            {
+                "self_id": 3249474653,
+                "user_id": 2769731875,
+                "time": 1725692758,
+                "message_id": 1468918432,
+                "message_seq": 1468918432,
+                "real_id": 1468918432,
+                "message_type": "group",
+                "sender": {
+                    "user_id": 2769731875,
+                    "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+                    "card": "",
+                    "role": "owner"
+                },
+                "raw_message": "2",
+                "font": 14,
+                "sub_type": "normal",
+                "message": [
+                    {
+                        "type": "text",
+                        "data": {
+                            "text": "2"
+                        }
+                    }
+                ],
+                "message_format": "array",
+                "post_type": "message",
+                "group_id": 118976506
+            },
+            {
+                "self_id": 3249474653,
+                "user_id": 2769731875,
+                "time": 1725692758,
+                "message_id": 967799701,
+                "message_seq": 967799701,
+                "real_id": 967799701,
+                "message_type": "group",
+                "sender": {
+                    "user_id": 2769731875,
+                    "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+                    "card": "",
+                    "role": "owner"
+                },
+                "raw_message": "2",
+                "font": 14,
+                "sub_type": "normal",
+                "message": [
+                    {
+                        "type": "text",
+                        "data": {
+                            "text": "2"
+                        }
+                    }
+                ],
+                "message_format": "array",
+                "post_type": "message",
+                "group_id": 118976506
+            },
+            {
+                "self_id": 3249474653,
+                "user_id": 2769731875,
+                "time": 1725692759,
+                "message_id": 372604530,
+                "message_seq": 372604530,
+                "real_id": 372604530,
+                "message_type": "group",
+                "sender": {
+                    "user_id": 2769731875,
+                    "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+                    "card": "",
+                    "role": "owner"
+                },
+                "raw_message": "1",
+                "font": 14,
+                "sub_type": "normal",
+                "message": [
+                    {
+                        "type": "text",
+                        "data": {
+                            "text": "1"
+                        }
+                    }
+                ],
+                "message_format": "array",
+                "post_type": "message",
+                "group_id": 118976506
+            },
+            {
+                "self_id": 3249474653,
+                "user_id": 2769731875,
+                "time": 1725692759,
+                "message_id": 859885329,
+                "message_seq": 859885329,
+                "real_id": 859885329,
+                "message_type": "group",
+                "sender": {
+                    "user_id": 2769731875,
+                    "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+                    "card": "",
+                    "role": "owner"
+                },
+                "raw_message": "1",
+                "font": 14,
+                "sub_type": "normal",
+                "message": [
+                    {
+                        "type": "text",
+                        "data": {
+                            "text": "1"
+                        }
+                    }
+                ],
+                "message_format": "array",
+                "post_type": "message",
+                "group_id": 118976506
+            },
+            {
+                "self_id": 3249474653,
+                "user_id": 2769731875,
+                "time": 1725692759,
+                "message_id": 1247762618,
+                "message_seq": 1247762618,
+                "real_id": 1247762618,
+                "message_type": "group",
+                "sender": {
+                    "user_id": 2769731875,
+                    "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+                    "card": "",
+                    "role": "owner"
+                },
+                "raw_message": "1",
+                "font": 14,
+                "sub_type": "normal",
+                "message": [
+                    {
+                        "type": "text",
+                        "data": {
+                            "text": "1"
+                        }
+                    }
+                ],
+                "message_format": "array",
+                "post_type": "message",
+                "group_id": 118976506
+            },
+            {
+                "self_id": 3249474653,
+                "user_id": 2769731875,
+                "time": 1725692760,
+                "message_id": 1393370952,
+                "message_seq": 1393370952,
+                "real_id": 1393370952,
+                "message_type": "group",
+                "sender": {
+                    "user_id": 2769731875,
+                    "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+                    "card": "",
+                    "role": "owner"
+                },
+                "raw_message": "1d1ad1a",
+                "font": 14,
+                "sub_type": "normal",
+                "message": [
+                    {
+                        "type": "text",
+                        "data": {
+                            "text": "1d1ad1a"
+                        }
+                    }
+                ],
+                "message_format": "array",
+                "post_type": "message",
+                "group_id": 118976506
+            },
+            {
+                "self_id": 3249474653,
+                "user_id": 2769731875,
+                "time": 1725692762,
+                "message_id": 585797883,
+                "message_seq": 585797883,
+                "real_id": 585797883,
+                "message_type": "group",
+                "sender": {
+                    "user_id": 2769731875,
+                    "nickname": "𝐖𝟏𝐧𝐝𝐲𝐬",
+                    "card": "",
+                    "role": "owner"
+                },
+                "raw_message": "[CQ:at,qq=3649056059]",
+                "font": 14,
+                "sub_type": "normal",
+                "message": [
+                    {
+                        "type": "at",
+                        "data": {
+                            "qq": "3649056059"
+                        }
+                    }
+                ],
+                "message_format": "array",
+                "post_type": "message",
+                "group_id": 118976506
+            }
+        ]
+    },
+    "message": "",
+    "wording": "",
+    "echo": "get_group_msg_history"
+}

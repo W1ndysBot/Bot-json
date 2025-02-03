@@ -1,0 +1,39 @@
+{
+    "status": "ok",
+    "retcode": 0,
+    "data": {
+        "errCode": 0,
+        "errMsg": "success",
+        "arkMsg": {
+            "app": "com.tencent.contact.lua",
+            "prompt": "推荐联系人：𝐖𝟏𝐝𝐲𝐬",
+            "bizsrc": "cardshare.cardshare",
+            "meta": {
+                "contact": {
+                    "avatar": "http://thirdqq.qlogo.cn/g?b=oidb&k=niaqHJJAtnaTNOTV2sWkrbw&kti=ZrzJVQAAAAA&s=140",
+                    "nickname": "𝐖𝟏𝐝𝐲𝐬",
+                    "contact": "帐号：2769731875",
+                    "tag": "推荐好友",
+                    "tagIcon": null,
+                    "jumpUrl": "mqqapi://card/show_pslcard?src_type=internal&source=sharecard&version=1&uin=2769731875"
+                }
+            },
+            "config": {
+                "autosize": 0,
+                "collect": 1,
+                "ctime": 1723648341,
+                "forward": 0,
+                "height": 225,
+                "reply": 1,
+                "round": 1,
+                "token": "70761b06cf5a856d0eab01100d3da044",
+                "type": "normal",
+                "width": 526
+            },
+            "view": "contact",
+            "ver": "0.0.0.1"
+        }
+    },
+    "message": "",
+    "wording": ""
+}
