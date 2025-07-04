@@ -1,0 +1,42 @@
+[
+  {
+    "group_id": "MASKED_GROUP_ID",
+    "user_id": "MASKED_USER_ID",
+    "nickname": "MASKED_NICKNAME",
+    "card": "",
+    "sex": "unknown",
+    "age": 0,
+    "area": "",
+    "level": "0",
+    "qq_level": 0,
+    "join_time": 1750334213,
+    "last_sent_time": 1750334213,
+    "title_expire_time": 0,
+    "unfriendly": false,
+    "card_changeable": true,
+    "is_robot": false,
+    "shut_up_timestamp": 1752926213,
+    "role": "member",
+    "title": ""
+  },
+  {
+    "group_id": "MASKED_GROUP_ID",
+    "user_id": "MASKED_USER_ID",
+    "nickname": "MASKED_NICKNAME",
+    "card": "",
+    "sex": "unknown",
+    "age": 0,
+    "area": "",
+    "level": "15",
+    "qq_level": 0,
+    "join_time": 1749220299,
+    "last_sent_time": 1751418547,
+    "title_expire_time": 0,
+    "unfriendly": false,
+    "card_changeable": true,
+    "is_robot": false,
+    "shut_up_timestamp": 0,
+    "role": "admin",
+    "title": ""
+  }
+]
