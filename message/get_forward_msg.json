@@ -1,0 +1,180 @@
+{
+    "self_id": "xxxxxxxx",
+    "user_id": "xxxxxxxx",
+    "time": 1734525717,
+    "message_id": 553551992,
+    "message_seq": 553551992,
+    "real_id": 553551992,
+    "message_type": "group",
+    "sender": {
+        "user_id": "xxxxxxxx",
+        "nickname": "[已编辑]",
+        "card": "[已编辑]",
+        "role": "owner"
+    },
+    "raw_message": "[CQ:forward,id=7449731234304674028,content=[object Object],[object Object],[object Object],[object Object],[object Object]]",
+    "font": 14,
+    "sub_type": "normal",
+    "message": [
+        {
+            "type": "forward",
+            "data": {
+                "id": "7449731234304674028",
+                "content": [
+                    {
+                        "self_id": "xxxxxxxx",
+                        "user_id": "xxxxxxxx",
+                        "time": 1734525214,
+                        "message_id": 174122996,
+                        "message_seq": 174122996,
+                        "real_id": 174122996,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "xxxxxxxx",
+                            "nickname": "[已编辑]",
+                            "card": ""
+                        },
+                        "raw_message": "添加成功\n关键词：测试测试\n回复：11",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "text",
+                                "data": {
+                                    "text": "添加成功\n关键词：测试测试\n回复：11"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message_sent",
+                        "message_sent_type": "self",
+                        "group_id": "xxxxxxxx"
+                    },
+                    {
+                        "self_id": "xxxxxxxx",
+                        "user_id": "xxxxxxxx",
+                        "time": 1734525214,
+                        "message_id": 6475717,
+                        "message_seq": 6475717,
+                        "real_id": 6475717,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "xxxxxxxx",
+                            "nickname": "[已编辑]",
+                            "card": ""
+                        },
+                        "raw_message": "测试测试",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "text",
+                                "data": {
+                                    "text": "测试测试"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message",
+                        "group_id": "xxxxxxxx"
+                    },
+                    {
+                        "self_id": "xxxxxxxx",
+                        "user_id": "xxxxxxxx",
+                        "time": 1734525215,
+                        "message_id": 285587275,
+                        "message_seq": 285587275,
+                        "real_id": 285587275,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "xxxxxxxx",
+                            "nickname": "[已编辑]",
+                            "card": ""
+                        },
+                        "raw_message": "[CQ:reply,id=1692367853]11",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "reply",
+                                "data": {
+                                    "id": "1692367853"
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "data": {
+                                    "text": "11"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message_sent",
+                        "message_sent_type": "self",
+                        "group_id": "xxxxxxxx"
+                    },
+                    {
+                        "self_id": "xxxxxxxx",
+                        "user_id": "xxxxxxxx",
+                        "time": 1734525222,
+                        "message_id": 135412614,
+                        "message_seq": 135412614,
+                        "real_id": 135412614,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "xxxxxxxx",
+                            "nickname": "[已编辑]",
+                            "card": ""
+                        },
+                        "raw_message": "查看群号",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "text",
+                                "data": {
+                                    "text": "查看群号"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message",
+                        "group_id": "xxxxxxxx"
+                    },
+                    {
+                        "self_id": "xxxxxxxx",
+                        "user_id": "xxxxxxxx",
+                        "time": 1734525222,
+                        "message_id": 1737858590,
+                        "message_seq": 1737858590,
+                        "real_id": 1737858590,
+                        "message_type": "group",
+                        "sender": {
+                            "user_id": "xxxxxxxx",
+                            "nickname": "[已编辑]",
+                            "card": ""
+                        },
+                        "raw_message": "群号列表：\nxxxxxxxx",
+                        "font": 14,
+                        "sub_type": "normal",
+                        "message": [
+                            {
+                                "type": "text",
+                                "data": {
+                                    "text": "群号列表：\nxxxxxxxx"
+                                }
+                            }
+                        ],
+                        "message_format": "array",
+                        "post_type": "message_sent",
+                        "message_sent_type": "self",
+                        "group_id": "xxxxxxxx"
+                    }
+                ]
+            }
+        }
+    ],
+    "message_format": "array",
+    "post_type": "message",
+    "group_id": "xxxxxxxx"
+}
