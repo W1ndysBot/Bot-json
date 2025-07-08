@@ -2,166 +2,166 @@
   "status": "ok",
   "retcode": 0,
   "data": {
-    "groupCode": "[REDACTED_GROUP_CODE]",
-    "groupUin": "[REDACTED_GROUP_UIN]",
-    "ownerUid": "[REDACTED_OWNER_UID]",
-    "ownerUin": "[REDACTED_OWNER_UIN]",
-    "groupFlag": 1090520065,
-    "groupFlagExt": 1075904576,
-    "maxMemberNum": 200,
-    "memberNum": 7,
-    "groupOption": 5,
-    "classExt": 34,
-    "groupName": "测试",
-    "fingerMemo": "",
-    "groupQuestion": "哪里看到的本群",
-    "certType": 0,
-    "richFingerMemo": "",
-    "tagRecord": [],
-    "shutUpAllTimestamp": 0,
-    "shutUpMeTimestamp": 0,
-    "groupTypeFlag": 0,
-    "privilegeFlag": 336134336,
-    "groupSecLevel": 0,
-    "groupFlagExt3": 33554560,
-    "isConfGroup": 0,
-    "isModifyConfGroupFace": 1,
-    "isModifyConfGroupName": 1,
-    "groupFlagExt4": 163920,
-    "groupMemo": "",
-    "cmdUinMsgSeq": 2503,
-    "cmdUinJoinTime": "[REDACTED_TIMESTAMP]",
-    "cmdUinUinFlag": 1,
-    "cmdUinMsgMask": 1,
-    "groupSecLevelInfo": 0,
-    "cmdUinPrivilege": 3,
-    "cmdUinFlagEx2": 0,
-    "appealDeadline": 0,
-    "remarkName": "",
-    "isTop": false,
-    "groupFace": 0,
-    "groupGeoInfo": {
-      "ownerUid": "",
-      "SetTime": 0,
-      "CityId": 0,
-      "Longitude": "0",
-      "Latitude": "0",
-      "GeoContent": "",
-      "poiId": "0"
+    "groupCode": "********", // 群号 (已脱敏)
+    "groupUin": "********", // 群的唯一标识符 (已脱敏)
+    "ownerUid": "********", // 群主用户ID (已脱敏)
+    "ownerUin": "********", // 群主UIN (已脱敏)
+    "groupFlag": 1090520065, // 群标志
+    "groupFlagExt": 1075904576, // 群扩展标志
+    "maxMemberNum": 200, // 最大成员数量
+    "memberNum": 7, // 当前成员数量
+    "groupOption": 5, // 群选项
+    "classExt": 34, // 群分类扩展
+    "groupName": "测试", // 群名称
+    "fingerMemo": "", // 签名备忘
+    "groupQuestion": "哪里看到的本群", // 加群问题
+    "certType": 0, // 认证类型
+    "richFingerMemo": "", // 富文本签名备忘
+    "tagRecord": [], // 标签记录
+    "shutUpAllTimestamp": 0, // 全员禁言时间戳
+    "shutUpMeTimestamp": 0, // 个人禁言时间戳
+    "groupTypeFlag": 0, // 群类型标志
+    "privilegeFlag": 336134336, // 权限标志
+    "groupSecLevel": 0, // 群安全等级
+    "groupFlagExt3": 33554560, // 群扩展标志3
+    "isConfGroup": 0, // 是否为会议群
+    "isModifyConfGroupFace": 1, // 是否允许修改会议群头像
+    "isModifyConfGroupName": 1, // 是否允许修改会议群名称
+    "groupFlagExt4": 163920, // 群扩展标志4
+    "groupMemo": "", // 群备注
+    "cmdUinMsgSeq": 2503, // 指令UIN消息序列号
+    "cmdUinJoinTime": 1748328581, // 指令UIN加入时间
+    "cmdUinUinFlag": 1, // 指令UIN标志
+    "cmdUinMsgMask": 1, // 指令UIN消息掩码
+    "groupSecLevelInfo": 0, // 群安全等级信息
+    "cmdUinPrivilege": 3, // 指令UIN权限
+    "cmdUinFlagEx2": 0, // 指令UIN扩展标志2
+    "appealDeadline": 0, // 申诉截止日期
+    "remarkName": "", // 备注名称
+    "isTop": false, // 是否置顶
+    "groupFace": 0, // 群头像
+    "groupGeoInfo": { // 群地理信息
+      "ownerUid": "", // 群主用户ID
+      "SetTime": 0, // 设置时间
+      "CityId": 0, // 城市ID
+      "Longitude": "0", // 经度
+      "Latitude": "0", // 纬度
+      "GeoContent": "", // 地理内容
+      "poiId": "0" // POI ID
     },
-    "certificationText": "",
-    "cmdUinRingtoneId": 0,
-    "longGroupName": "",
-    "autoAgreeJoinGroupUserNumForConfGroup": 50,
-    "autoAgreeJoinGroupUserNumForNormalGroup": 50,
-    "cmdUinFlagExt3Grocery": 0,
-    "groupCardPrefix": {
-      "introduction": "",
-      "rptPrefix": []
+    "certificationText": "", // 认证文本
+    "cmdUinRingtoneId": 0, // 指令UIN铃声ID
+    "longGroupName": "", // 长群名称
+    "autoAgreeJoinGroupUserNumForConfGroup": 50, // 会议群自动同意加群用户数量
+    "autoAgreeJoinGroupUserNumForNormalGroup": 50, // 普通群自动同意加群用户数量
+    "cmdUinFlagExt3Grocery": 0, // 指令UIN扩展标志3超市
+    "groupCardPrefix": { // 群名片前缀
+      "introduction": "", // 介绍
+      "rptPrefix": [] // 重复前缀
     },
-    "groupExt": {
-      "groupInfoExtSeq": 5,
-      "reserve": 0,
-      "luckyWordId": "0",
-      "lightCharNum": 0,
-      "luckyWord": "",
-      "starId": 0,
-      "essentialMsgSwitch": 0,
-      "todoSeq": 0,
-      "blacklistExpireTime": 0,
-      "isLimitGroupRtc": 0,
-      "companyId": 0,
-      "hasGroupCustomPortrait": 1,
-      "bindGuildId": "0",
-      "groupOwnerId": {
-        "memberUin": "[REDACTED_MEMBER_UIN]",
-        "memberUid": "[REDACTED_MEMBER_UID]",
-        "memberQid": ""
+    "groupExt": { // 群扩展信息
+      "groupInfoExtSeq": 5, // 群信息扩展序列号
+      "reserve": 0, // 保留字段
+      "luckyWordId": "0", // 幸运词ID
+      "lightCharNum": 0, // 亮字符数量
+      "luckyWord": "", // 幸运词
+      "starId": 0, // 星级ID
+      "essentialMsgSwitch": 0, // 关键消息开关
+      "todoSeq": 0, // 待办序列号
+      "blacklistExpireTime": 0, // 黑名单过期时间
+      "isLimitGroupRtc": 0, // 是否限制群RTC
+      "companyId": 0, // 公司ID
+      "hasGroupCustomPortrait": 1, // 是否有群自定义头像
+      "bindGuildId": "0", // 绑定公会ID
+      "groupOwnerId": { // 群主ID
+        "memberUin": "********", // 成员UIN (已脱敏)
+        "memberUid": "********", // 成员用户ID (已脱敏)
+        "memberQid": "" // 成员QID
       },
-      "essentialMsgPrivilege": 0,
-      "msgEventSeq": "0",
-      "inviteRobotSwitch": 0,
-      "gangUpId": "0",
-      "qqMusicMedalSwitch": 0,
-      "showPlayTogetherSwitch": 0,
-      "groupFlagPro1": "0",
-      "groupBindGuildIds": {
-        "guildIds": []
+      "essentialMsgPrivilege": 0, // 关键消息权限
+      "msgEventSeq": "0", // 消息事件序列号
+      "inviteRobotSwitch": 0, // 邀请机器人开关
+      "gangUpId": "0", // 组队ID
+      "qqMusicMedalSwitch": 0, // QQ音乐勋章开关
+      "showPlayTogetherSwitch": 0, // 显示一起玩开关
+      "groupFlagPro1": "0", // 群标志Pro1
+      "groupBindGuildIds": { // 群绑定公会ID
+        "guildIds": [] // 公会ID列表
       },
-      "viewedMsgDisappearTime": "0",
-      "groupExtFlameData": {
-        "switchState": 0,
-        "state": 0,
-        "dayNums": [],
-        "version": 0,
-        "updateTime": "0",
-        "isDisplayDayNum": false
+      "viewedMsgDisappearTime": "0", // 已读消息消失时间
+      "groupExtFlameData": { // 群扩展火焰数据
+        "switchState": 0, // 开关状态
+        "state": 0, // 状态
+        "dayNums": [], // 天数列表
+        "version": 0, // 版本
+        "updateTime": "0", // 更新时间
+        "isDisplayDayNum": false // 是否显示天数
       },
-      "groupBindGuildSwitch": 0,
-      "groupAioBindGuildId": "0",
-      "groupExcludeGuildIds": {
-        "guildIds": []
+      "groupBindGuildSwitch": 0, // 群绑定公会开关
+      "groupAioBindGuildId": "0", // 群AIO绑定公会ID
+      "groupExcludeGuildIds": { // 群排除公会ID
+        "guildIds": [] // 公会ID列表
       },
-      "fullGroupExpansionSwitch": 0,
-      "fullGroupExpansionSeq": "0",
-      "inviteRobotMemberSwitch": 1,
-      "inviteRobotMemberExamine": 0,
-      "groupSquareSwitch": 0
+      "fullGroupExpansionSwitch": 0, // 满群扩容开关
+      "fullGroupExpansionSeq": "0", // 满群扩容序列号
+      "inviteRobotMemberSwitch": 1, // 邀请机器人成员开关
+      "inviteRobotMemberExamine": 0, // 邀请机器人成员审核
+      "groupSquareSwitch": 0 // 群广场开关
     },
-    "msgLimitFrequency": 0,
-    "hlGuildAppid": 0,
-    "hlGuildSubType": 0,
-    "isAllowRecallMsg": 0,
-    "confUin": "0",
-    "confMaxMsgSeq": 0,
-    "confToGroupTime": 0,
-    "groupSchoolInfo": {
-      "location": "",
-      "grade": 0,
-      "school": ""
+    "msgLimitFrequency": 0, // 消息限制频率
+    "hlGuildAppid": 0, // HL公会App ID
+    "hlGuildSubType": 0, // HL公会子类型
+    "isAllowRecallMsg": 0, // 是否允许撤回消息
+    "confUin": "0", // 会议UIN
+    "confMaxMsgSeq": 0, // 会议最大消息序列号
+    "confToGroupTime": 0, // 会议转群时间
+    "groupSchoolInfo": { // 群学校信息
+      "location": "", // 位置
+      "grade": 0, // 年级
+      "school": "" // 学校
     },
-    "activeMemberNum": 6,
-    "groupGrade": 1,
-    "groupCreateTime": "[REDACTED_TIMESTAMP]",
-    "subscriptionUin": "0",
-    "subscriptionUid": "u_invalid_______________",
-    "noFingerOpenFlag": 0,
-    "noCodeFingerOpenFlag": 0,
-    "isGroupFreeze": 0,
-    "allianceId": "0",
-    "groupExtOnly": {
-      "tribeId": 0,
-      "moneyForAddGroup": 0
+    "activeMemberNum": 6, // 活跃成员数量
+    "groupGrade": 1, // 群等级
+    "groupCreateTime": 1747906019, // 群创建时间 (Unix时间戳)
+    "subscriptionUin": "0", // 订阅UIN
+    "subscriptionUid": "u_invalid_______________", // 订阅用户ID
+    "noFingerOpenFlag": 0, // 无指纹打开标志
+    "noCodeFingerOpenFlag": 0, // 无代码指纹打开标志
+    "isGroupFreeze": 0, // 群是否冻结
+    "allianceId": "0", // 联盟ID
+    "groupExtOnly": { // 仅群扩展信息
+      "tribeId": 0, // 部落ID
+      "moneyForAddGroup": 0 // 加群费用
     },
-    "isAllowConfGroupMemberModifyGroupName": 0,
-    "isAllowConfGroupMemberNick": 0,
-    "isAllowConfGroupMemberAtAll": 0,
-    "groupClassText": "",
-    "groupFreezeReason": 0,
-    "headPortraitSeq": 1,
-    "groupHeadPortrait": {
-      "portraitCnt": 0,
-      "portraitInfo": [],
-      "defaultId": 0,
-      "verifyingPortraitCnt": 0,
-      "verifyingPortraitInfo": []
+    "isAllowConfGroupMemberModifyGroupName": 0, // 是否允许会议群成员修改群名称
+    "isAllowConfGroupMemberNick": 0, // 是否允许会议群成员昵称
+    "isAllowConfGroupMemberAtAll": 0, // 是否允许会议群成员@全体
+    "groupClassText": "", // 群分类文本
+    "groupFreezeReason": 0, // 群冻结原因
+    "headPortraitSeq": 1, // 头像序列号
+    "groupHeadPortrait": { // 群头像信息
+      "portraitCnt": 0, // 头像数量
+      "portraitInfo": [], // 头像信息列表
+      "defaultId": 0, // 默认头像ID
+      "verifyingPortraitCnt": 0, // 审核中头像数量
+      "verifyingPortraitInfo": [] // 审核中头像信息列表
     },
-    "cmdUinJoinMsgSeq": 2503,
-    "cmdUinJoinRealMsgSeq": 0,
-    "groupAnswer": "",
-    "groupAdminMaxNum": 10,
-    "inviteNoAuthNumLimit": "0",
-    "hlGuildOrgId": 0,
-    "isAllowHlGuildBinary": 0,
-    "localExitGroupReason": 0,
-    "group_all_shut": 0,
-    "group_remark": "",
-    "group_id": "[REDACTED_GROUP_ID]",
-    "group_name": "测试",
-    "member_count": 7,
-    "max_member_count": 200
+    "cmdUinJoinMsgSeq": 2503, // 指令UIN加入消息序列号
+    "cmdUinJoinRealMsgSeq": 0, // 指令UIN加入真实消息序列号
+    "groupAnswer": "", // 群答案
+    "groupAdminMaxNum": 10, // 群管理员最大数量
+    "inviteNoAuthNumLimit": "0", // 邀请无权限数量限制
+    "hlGuildOrgId": 0, // HL公会组织ID
+    "isAllowHlGuildBinary": 0, // 是否允许HL公会二进制
+    "localExitGroupReason": 0, // 本地退出群原因
+    "group_all_shut": 0, // 群全员禁言
+    "group_remark": "", // 群备注
+    "group_id": "********", // 群ID (已脱敏)
+    "group_name": "测试", // 群名称
+    "member_count": 7, // 成员数量
+    "max_member_count": 200 // 最大成员数量
   },
-  "message": "",
-  "wording": "",
-  "echo": null
+  "message": "", // 消息
+  "wording": "", // 措辞
+  "echo": null // 回显
 }
