@@ -1,0 +1,15 @@
+{
+  "status": "ok",
+  "retcode": 0,
+  "data": {
+    "group_all_shut": 0,
+    "group_remark": "",
+    "group_id": "********",  // 已脱敏
+    "group_name": "测试",
+    "member_count": 7,
+    "max_member_count": 200
+  },
+  "message": "",
+  "wording": "",
+  "echo": null
+}
